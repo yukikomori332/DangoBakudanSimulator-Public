@@ -99,7 +99,10 @@ Unityroomで完成版を公開中<br/>
 ゲーム終了時に破棄されたAudioSourceやParticleSystemを参照してエラーが起きます。<br/>
 ゲームのプレイには影響しないため、放置しています。<br/>
 
-### MissingReferenceException: The object of type '' has been destroyed but you are still trying to access it.　Your script should either check if it is null or you should not destroy the object.
+<details>
+<summary>発生しているエラー</summary>
+MissingReferenceException: The object of type '' has been destroyed but you are still trying to access it.　Your script should either check if it is null or you should not destroy the object.
+</details>
 
 解決策は模索中...<br/>
 
@@ -127,7 +130,7 @@ Unityroomで完成版を公開中<br/>
 
 - AIPresenterFactoryまたはWeaponPresenterFactoryクラスでオブジェクトのプールを保持させています。
 
-- シーン読込時に各Factoryクラスでオブジェクトの生成を行い、適宜プールからオブジェクトの表示/非表示をしています。
+- シーン読込時に各Factoryクラスでオブジェクトの生成を行い、適宜プールからオブジェクトの表示/非表示を行います。
 
 リンク: [AIPresenterFactory.cs](https://github.com/yukikomori332/DangoBakudanSimulator-Public/blob/109712455e25df881236f99c534494f83ac2ba7a/Assets/Project/Core/Scripts/Gameplay/Presentation/AI/AIPresenterFactory.cs)
 
@@ -194,11 +197,11 @@ Unityroomで完成版を公開中<br/>
 <details>
 <summary>AIコードエディタを部分的に利用した点</summary>
 
-- コードへコメントをつける
+- コードにコメントを付与
   
-- AIPresenterクラスにて、円周上に移動させる計算の叩き台を作成させた
+- AIPresenterクラスにて、円周上に移動させる計算の叩き台の作成
 
-- 各Modelのテストコードの叩き台を作成させた
+- 各Modelのテストコードの叩き台の作成
 
 </details>
 
