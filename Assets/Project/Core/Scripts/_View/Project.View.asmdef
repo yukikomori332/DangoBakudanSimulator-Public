@@ -1,0 +1,30 @@
+{
+    "name": "Project.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1a90fe3a4802b4b34966e84ca605438f",
+        "GUID:416dba9b214f94c83ad73eb0d33eae33",
+        "GUID:b885866652aa848289e84ffc5a38a243",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:593a5b492d29ac6448b1ebf7f035ef33",
+        "GUID:2359c074672083046b6ff6b309700f8e",
+        "GUID:735c8f008d0ad4caa9cdc4306f1c3042",
+        "GUID:3b570a5146f9d4f0fa107ed4559471a3",
+        "GUID:3aa1866a824b5472da50fe142777d95f",
+        "GUID:2b527881bfe504d80ad235404ab4b8df",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

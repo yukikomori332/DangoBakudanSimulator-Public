@@ -1,0 +1,14 @@
+using System;
+using Project.Core.Scripts.Domain;
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+namespace Project.Core.Scripts.MasterRepository
+{
+	[CreateAssetMenu(menuName = "Project/Master Data/#SCRIPTNAME#")]
+	public class #SCRIPTNAME# : ScriptableObject
+	{
+	    
+	}
+}
+#ROOTNAMESPACEEND#

@@ -1,0 +1,12 @@
+using System;
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+namespace Project.Core.Scripts
+{
+    public class #SCRIPTNAME#
+    {
+        
+    }
+}
+#ROOTNAMESPACEEND#

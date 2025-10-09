@@ -1,0 +1,21 @@
+{
+    "name": "Project.UseCase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f4ad8dbcfe78427990a7027c5784012",
+        "GUID:057a0fb5e87c442d99a0410b98a9f32c",
+        "GUID:3122e4dda09314849825034fcd0493fb",
+        "GUID:8e069df3ca3f84641808166b24f67178",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

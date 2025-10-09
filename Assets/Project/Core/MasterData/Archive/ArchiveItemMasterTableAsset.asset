@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3b067bf855474746942f7ab37255647, type: 3}
+  m_Name: ArchiveItemMasterTableAsset
+  m_EditorClassIdentifier: 
+  masterTable:
+    items:
+    - id: archive_item_0
+      itemName: "\u30A8\u30A4\u30EA\u30A2\u30F3"
+      sprite: {fileID: 21300000, guid: cdde9256387514795bb206690b38a104, type: 3}
+      cost: 0
+      specialCost: 0
+    - id: archive_item_1
+      itemName: "\u30AA\u30EC\u30F3\u30B8"
+      sprite: {fileID: 21300000, guid: ca3e540e203ce4e099c9f9b343a97925, type: 3}
+      cost: 10
+      specialCost: 0
+    - id: archive_item_2
+      itemName: "\u30A4\u30A8\u30ED\u30FC"
+      sprite: {fileID: 21300000, guid: 1d58e4d74fc0042ea97f3667a947582a, type: 3}
+      cost: 20
+      specialCost: 0
+    - id: archive_item_3
+      itemName: "\u30A4\u30A8\u30ED\u30FC\u30B0\u30EA\u30FC\u30F3"
+      sprite: {fileID: 21300000, guid: 17d6c43607d3c4650b5426e1c606f8a4, type: 3}
+      cost: 30
+      specialCost: 0
+    - id: archive_item_4
+      itemName: "\u30A8\u30E1\u30E9\u30EB\u30C9\u30B0\u30EA\u30FC\u30F3"
+      sprite: {fileID: 21300000, guid: 8b7dcb021bbcd4d92a2dd1a50902cdb9, type: 3}
+      cost: 40
+      specialCost: 0
+    - id: archive_item_5
+      itemName: "\u30B9\u30AB\u30A4\u30D6\u30EB\u30FC"
+      sprite: {fileID: 21300000, guid: 300418827784244f69902c83c28c8fdf, type: 3}
+      cost: 50
+      specialCost: 0
+    - id: archive_item_6
+      itemName: "\u30D6\u30EB\u30FC"
+      sprite: {fileID: 21300000, guid: 72750b90a3f1546d6ab3bbc6bc505802, type: 3}
+      cost: 60
+      specialCost: 0
+    - id: archive_item_7
+      itemName: "\u30D1\u30FC\u30D7\u30EB"
+      sprite: {fileID: 21300000, guid: 7225de647e7a643da87909dd3dc247c9, type: 3}
+      cost: 70
+      specialCost: 10
+    - id: archive_item_8
+      itemName: "\u30D4\u30F3\u30AF"
+      sprite: {fileID: 21300000, guid: 819bc6b5cf1b64dffa2f885d4b265a14, type: 3}
+      cost: 80
+      specialCost: 20

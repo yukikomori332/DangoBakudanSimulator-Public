@@ -1,0 +1,20 @@
+{
+    "name": "Project.Development.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1a90fe3a4802b4b34966e84ca605438f",
+        "GUID:c364a658ab7f34e31927e4d6e62a777b",
+        "GUID:b885866652aa848289e84ffc5a38a243",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

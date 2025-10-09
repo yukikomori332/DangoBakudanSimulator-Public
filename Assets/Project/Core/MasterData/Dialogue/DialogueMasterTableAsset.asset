@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9ed60725b36455582d0cf9e0489319, type: 3}
+  m_Name: DialogueMasterTableAsset
+  m_EditorClassIdentifier: 
+  masterTable:
+    items:
+    - id: dialogue_0
+      charName: "\u30A8\u30A4\u30EA\u30A2\u30F3"
+      label: "\u6CE5\u68D2"
+      text: "\u6708\u898B\u56E3\u5B50\u306F\u30AA\u30EC\u305F\u3061\u304C\u3044\u305F\u3060\u304F\uFF01"
+      prefab: {fileID: 5121692439733589757, guid: 656b1f683b54e4339a9d51d6963f979d,
+        type: 3}
+      sprite: {fileID: 21300000, guid: cdde9256387514795bb206690b38a104, type: 3}
+    - id: dialogue_1
+      charName: "\u30A6\u30B5\u30AE"
+      label: "\u5E02\u6C11"
+      text: "\u52A9\u3051\u3066\u3001\u5730\u7403\u306E\u4EBA\uFF01\n\u56E3\u5B50\u7206\u5F3E\u3067\u6CE5\u68D2\u3092\u8FFD\u3044\u6255\u3063\u3066\uFF01\n<color=#FFEA80>\u5DE6\u30AF\u30EA\u30C3\u30AF</color>\u3067\u7206\u5F3E\u3092\u8A2D\u7F6E\u3067\u304D\u308B\u3088\uFF01"
+      prefab: {fileID: 2428985828805694021, guid: 4a93acc7ad7bb43d48dfc6af0494f33f,
+        type: 3}
+      sprite: {fileID: 21300000, guid: a0ef10ace583c4387abd9e68e4862097, type: 3}
