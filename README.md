@@ -235,8 +235,8 @@ MissingReferenceException: The object of type '' has been destroyed but you are 
 | --------------------------------- | ------- |
 | Docker                            | 27.4.0  |
 | Node.js                           | 20.17.6 |
-| React                             | 18.3.12 |
-| Next.js                           | 15.0.2  |
+| React                             | 19.0.1  |
+| Next.js                           | 15.0.5  |
 | Typescript                        | 5.6.3   |
 | TailwindCSS                       | 3.4.14  |
 | fortawesome/fontawesome-svg-core  | 6.6.0   |
